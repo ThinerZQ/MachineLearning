@@ -1,5 +1,6 @@
 from numpy import *
-import operator
+import matplotlib
+import matplotlib.pyplot as plt
 import os
 
 
